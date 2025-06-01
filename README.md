@@ -4,6 +4,8 @@ A simple, no-cost job board that scrapes and lists the latest **Software Enginee
 
 🔗 View Jobs: [https://your-username.github.io/job-feed/](https://your-username.github.io/job-feed/)
 
+🔗 My deployed page: [https://codewatchzen.github.io/job-feed/](https://codewatchzen.github.io/job-feed/)
+
 ---
 
 ## 🔍 How It Works
